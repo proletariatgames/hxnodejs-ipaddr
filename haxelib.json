@@ -1,0 +1,14 @@
+{
+  "name": "hxnodejs-ipaddr",
+  "url": "https://github.com/proletariatgames/hxnodejs-ipaddr",
+  "license": "MIT",
+  "classPath": "src",
+  "tags": ["nodejs", "hxnodejs", "ipaddr"],
+  "description": "Externs for the ipaddr.js NPM module",
+  "releasenote": "Initial release",
+  "version": "1.1.0",
+  "contributors": ["Proletariat", "lpetre", "danogles", "waneck"],
+  "dependencies": {
+    "hxnodejs": ""
+  }
+}
